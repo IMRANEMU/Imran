@@ -2,7 +2,7 @@
 
 About Me 🚀
 
-🎓 I’m a knoledge enthusiast.Trying to walk with the truth by the grace of Allah(SWT).I am at the last semester of my Bachelor.
+🎓 I’m a knoledge enthusiast and trying to walk with the truth by the grace of Allah(SWT).Currently , I am at the last semester of my Bachelor.
 I am stuying Computer Science & Enginerring at Daffodil International University.
 👨‍💻 I love to work with Data and passionate about Data Science , Machine Learnig & Deep Learning.
 
