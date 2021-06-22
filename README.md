@@ -2,17 +2,12 @@
 
 About Me 🚀
 
-🎓 I’m a knoledge enthusiast and trying to walk with the truth by the grace of Allah(SWT).Currently , I am at the last semester of my Bachelor.
-I am stuying Computer Science & Enginerring at Daffodil International University.
-👨‍💻 I love to work with Data and passionate about Data Science , Machine Learnig & Deep Learning.
+🎓 I’m a knowledge enthusiast and trying to walk with the truth by the grace of Allah(SWT). Currently, I am in the last semester of my Bachelor's. I am studying Computer Science & Engineering at Daffodil International University. 👨‍💻 I love to work with Data and passionate about Data Science, Machine Learning & Deep Learning.
 
-
-🔭  Currently working on ->  A Research based project about the filed of  E-Commerce & Retail stores. Main moto is 
-"Sales prediction, maximization and forecasting the future sales." 
+🔭 Currently working on -> A Research-based project about the field of E-Commerce & Retail stores. The main motto is "Sales prediction, maximization and forecasting the future sales."
 
 🌱 I’m currently learning -> Image Processing.
 
 📫 How to reach me -> alimransuon1@gmail.com
 
 ⚡-> Currently, I am looking for an Internship in Data Science(Fintech), Machine Learning, or a related field.
-
