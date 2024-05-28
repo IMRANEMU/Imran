@@ -1,13 +1,13 @@
 <b> Assalamu Alikum! This is Emran !
 
-About Me 🚀
+🤖 A.I. Analyst | LLM Specialist | Multi-Modal Agent Developer
 
-🎓 I’m a knowledge enthusiast and trying to walk with the truth by the grace of Allah(SWT). Currently, I am in the last semester of my Bachelor's. I am CSE Graduate from Daffodil International University. 👨‍💻 I love to work with Data and passionate about Data Science, Machine Learning & Deep Learning.
+An A.I. Analyst and tech enthusiast with a passion for developing innovative A.I.-based products. With a degree in Computer Science from Daffodil International University, I specialize in using LangChain and large language models (LLMs) to create cutting-edge solutions. Currently, I'm focused on building multi-modal agent systems that can revolutionize the way we interact with technology.
 
-🔭 Currently working on -> A Research-based project about the field of E-Commerce & Retail stores. The main motto is "Sales prediction, maximization and forecasting the future sales."
-
-🌱 I’m currently learning -> Image Processing.
-
-📫 How to reach me -> alimransuon1@gmail.com
-
-⚡-> Currently, I am looking for an Internship in Data Science(Fintech), Machine Learning, or a related field.
+🔭 Currently working on: Developing a multi-modal agent building system
+🌱 Learning: Advanced techniques in A.I. and machine learning, including multi-modal frameworks
+👯 Looking to collaborate on: A.I.-based projects, startups, and innovative tech solutions
+💬 Ask me about: LangChain, LLMs, and multi-modal A.I. systems
+📫 How to reach me: [https://www.linkedin.com/in/al-imransujon/]
+📖 Published: [Medium](https://alimran1.medium.com/data-preprocessing-with-brother-chatgpt-9c066352f362)](#) articles on A.I.
+⚡ Fun fact: When I'm not working on A.I. projects, I love reading various domain's books and motivating others to achieve their dreams.
