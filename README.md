@@ -2,7 +2,8 @@
 
 🤖 A.I. Analyst | LLM Specialist | Multi-Modal Agent Developer
 
-An A.I. Analyst and tech enthusiast with a passion for developing innovative A.I.-based products. With a degree in Computer Science from Daffodil International University, I specialize in using LangChain and large language models (LLMs) to create cutting-edge solutions. Currently, I'm focused on building multi-modal agent systems that can revolutionize the way we interact with technology.
+An A.I. Analyst and tech enthusiast with a passion for developing innovative A.I.-based products. 
+I specialize in using LangChain and large language models (LLMs) to create cutting-edge solutions. 
 
 🔭 Currently working on: Developing a multi-modal agent building system
 🌱 Learning: Advanced techniques in A.I. and machine learning, including multi-modal frameworks
