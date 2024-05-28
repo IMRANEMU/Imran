@@ -13,7 +13,7 @@ I specialize in using LangChain and large language models (LLMs) to create cutti
 
 💬 Ask me about: LangChain, LLMs, and multi-modal A.I. systems
 
-📫 How to reach me: [https://www.linkedin.com/in/al-imransujon/]
+📫 Reach me: [https://www.linkedin.com/in/al-imransujon/]
 
 📖 Published: [Medium](https://alimran1.medium.com/data-preprocessing-with-brother-chatgpt-9c066352f362)](#) articles on A.I.
 
